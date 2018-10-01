@@ -17,7 +17,7 @@ public class OperationsPractice
 		System.out.println("subtract 6: " + number);
 		number %= 2;
 		System.out.println("mod by 2: " + number);
-	
+	//kjhggkjhgkjhg
 	
 	}
 }	
